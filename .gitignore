@@ -9,5 +9,6 @@ Thumbs.db
 .env
 .env.*
 
-# Excluded from the public bundle — authors' own spreadsheets, not redistributed
+# Exclude spreadsheets by default — only include those with explicit permission
 *.xlsx
+!Aem - Damage plotting.xlsx
