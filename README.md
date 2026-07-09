@@ -46,10 +46,10 @@ captures and derived analyses, and the scripts used.
 
 Built on community work — see [CREDITS.txt](CREDITS.txt). Galaxy star/system data
 via FIO, submitted by **SAGANAKI**; radiation formula & KQ-451 dataset from **Aem
-(SR)**; repair calculator from **Raylu**; flight-dynamics/ephemeris from **Marcus
+(SR)**; repair calculator from **RNGzero** (shared by **Raylu**); flight-dynamics/ephemeris from **Marcus
 Licinius Crassus**.
 
-> Two referenced community spreadsheets (Aem's and Raylu's) are **not** included
+> Two referenced community spreadsheets (Aem's and RNGzero's) are **not** included
 > here — they are the authors' own work. See CREDITS.txt.
 
 ## Data note

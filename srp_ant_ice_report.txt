@@ -194,7 +194,7 @@ CAVEATS / ANOMALIES:
     so this route is a poor place to detect SRP, and a very poor place to
     claim a large radiation channel.
 
-WHAT RAYLU'S SPREADSHEET ASSUMES (PrUn Ship Repair Calc.xlsx):
+WHAT RNGZERO'S SPREADSHEET ASSUMES (PrUn Ship Repair Calc.xlsx, shared by Raylu):
   Sheets: Ship Calc | Min/Half/Max Preset Trips data | Hull Reducer | RO-CALC.
   Mechanism: each preset trip's damage is DECOMPOSED into channels
     Wear + Meteor + Heat + Radiation. 'Hull Reducer' sheet hard-codes each
@@ -208,12 +208,12 @@ WHAT RAYLU'S SPREADSHEET ASSUMES (PrUn Ship Repair Calc.xlsx):
     shield-on vs shield-off delta.
 
 WHY THE TWO DISAGREE:
-  Raylu's SRP recommendation rests entirely on the ASSUMPTION that ~1/5 of
+  The calculator's SRP recommendation rests entirely on the ASSUMPTION that ~1/5 of
   the Ant->Ice trip damage is radiation. On an M-class star (lum 0.002) that
   is physically implausible; the approach damage here is meteoroid-dominated
   (density 2.73). Our direct with/without capture on this exact route shows
   the near-star leg damage is unchanged, i.e. there is no radiation channel
-  for the SRP to cut. Raylu is decomposing modelled damage into a radiation
+  for the SRP to cut. The model is decomposing modelled damage into a radiation
   bucket that the game does not actually charge on this route, then crediting
   the SRP for removing 70% of a bucket that is ~0.13% of the real damage.
 
