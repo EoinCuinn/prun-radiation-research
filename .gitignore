@@ -1,0 +1,13 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# Never commit secrets
+.env
+.env.*
+
+# Excluded from the public bundle — authors' own spreadsheets, not redistributed
+*.xlsx

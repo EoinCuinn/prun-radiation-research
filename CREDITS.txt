@@ -1,0 +1,44 @@
+================================================================================
+CREDITS & DATA SOURCES
+Radiation-damage research share — prepared by GYFG (COSM) / Daniel, 2026-07-08
+================================================================================
+
+This bundle builds directly on data and prior work from the Prosperous Universe
+community. Attribution below; corrections welcome.
+
+DATA SOURCES
+------------
+- systemstars.json — galaxy star/system dataset (system positions, connections,
+  star mass / luminosity / meteoroid density for 698 systems). Sourced from FIO
+  (fnar.net). This dataset was submitted to FIO by **SAGANAKI** — the file carries
+  their submission attribution (UserNameSubmitted / Timestamp), left intact.
+  The flight planner uses it to compute per-system GM (from star mass) and for
+  positions/routing; the radiation analysis uses its luminosity and meteoroid
+  density values. Full credit to SAGANAKI for gathering and sharing this data.
+
+- all_stars.json — a reduced star-physics extract (system, type, luminosity,
+  mass) covering the same 698 systems; derived from the same FIO galaxy data.
+
+- all_planets.json / planet data — planet parameters (radius, pressure, orbit,
+  radiation field) from FIO / the PrUn client data.
+
+PRIOR RESEARCH BUILT ON
+-----------------------
+- **Aem (SR)** — the inverse-square radiation formula structure and the KQ-451
+  blueprint-tester dataset. This study confirms Aem's functional form independently.
+- **Raylu** — the PrUn Ship Repair Calculator, referenced and cross-checked here.
+- **Marcus Licinius Crassus** — flight-dynamics papers and ephemeris data that the
+  broader flight-planner work rests on.
+
+NOTE ON THE TWO SPREADSHEETS (not included in this public bundle)
+-----------------------------------------------------------------
+The analysis here references and cross-checks two community spreadsheets — Aem's
+damage-plotting workbook and Raylu's PrUn Ship Repair Calculator. Those files are
+the authors' own work and are **deliberately NOT redistributed in this public
+repository**. The write-ups describe and quote the relevant cells, but for the
+spreadsheets themselves please go to Aem and Raylu directly. (They are included
+in the private copy shared with collaborators, with the authors' knowledge.)
+
+Prosperous Universe and its data © Simulogics. FIO (fnar.net) is a community data
+platform; game/galaxy data is player-submitted and publicly shared there.
+================================================================================
