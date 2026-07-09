@@ -30,14 +30,14 @@ PRIOR RESEARCH BUILT ON
 - **Marcus Licinius Crassus** — flight-dynamics papers and ephemeris data that the
   broader flight-planner work rests on.
 
-NOTE ON THE TWO SPREADSHEETS (not included in this public bundle)
+NOTE ON REFERENCED SPREADSHEETS
 -----------------------------------------------------------------
-The analysis here references and cross-checks two community spreadsheets — Aem's
-damage-plotting workbook and RNGzero's PrUn Ship Repair Calculator (shared by Raylu).
-Those files are the authors' own work and are **deliberately NOT redistributed in this
-public repository**. The write-ups describe and quote the relevant cells, but for the
-spreadsheets themselves please go to Aem and RNGzero directly. (They are included
-in the private copy shared with collaborators, with the authors' knowledge.)
+Aem's damage-plotting workbook (`Aem - Damage plotting.xlsx`) is included in this
+repository with Aem's permission.
+
+RNGzero's PrUn Ship Repair Calculator (shared by Raylu) is **not** included — it is
+RNGzero's own work. The write-ups describe and quote the relevant cells; for the
+spreadsheet itself please go to RNGzero directly.
 
 Prosperous Universe and its data © Simulogics. FIO (fnar.net) is a community data
 platform; game/galaxy data is player-submitted and publicly shared there.

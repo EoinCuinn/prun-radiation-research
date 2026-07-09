@@ -49,8 +49,8 @@ via FIO, submitted by **SAGANAKI**; radiation formula & KQ-451 dataset from **Ae
 (SR)**; repair calculator from **RNGzero** (shared by **Raylu**); flight-dynamics/ephemeris from **Marcus
 Licinius Crassus**.
 
-> Two referenced community spreadsheets (Aem's and RNGzero's) are **not** included
-> here — they are the authors' own work. See CREDITS.txt.
+> Aem's damage-plotting workbook is included with permission. RNGzero's PrUn Ship
+> Repair Calculator is **not** included — see CREDITS.txt.
 
 ## Data note
 
