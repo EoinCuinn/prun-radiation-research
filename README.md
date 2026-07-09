@@ -37,6 +37,8 @@ captures and derived analyses, and the scripts used.
   `workstream_c_result.txt`, `transit_residual_shield_test.txt`, `nl534_result.txt`,
   `srp_ant_ice_report.txt`, and others.
 - **Scripts** — `aem_vs_captures.js`, `wsc_final.js`, `nl534_result.js`.
+- **Formula reference** — `METEOROID_FORMULA.md` (the `meteorDmgRaw` meteoroid
+  formula the analysis subtracts to isolate radiation).
 - **Reference data** — `all_stars.json`, `all_planets.json`, `systemstars.json`,
   `star_list_OB.txt`, `system_classes.txt`, `planet_params.txt`.
 
