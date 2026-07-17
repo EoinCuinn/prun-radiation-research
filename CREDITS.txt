@@ -1,6 +1,6 @@
 ================================================================================
 CREDITS & DATA SOURCES
-Radiation-damage research share — prepared by GYFG (COSM) / Daniel, 2026-07-08
+Radiation-damage research share — prepared by EoinCuinn, 2026-07-08
 ================================================================================
 
 This bundle builds directly on data and prior work from the Prosperous Universe

@@ -1,7 +1,7 @@
 # Radiation Damage Workstream — Complete Summary
 
 **Prepared for:** Marcus Licinius Crassus
-**Prepared by:** Daniel (in-game GYFG / COSM), with analysis by Claude Code
+**Prepared by:** EoinCuinn, with analysis by Claude Code
 **Date:** 2026-07-08
 **Working directory:** `C:\prun-tools\prun-dam-radiation\`
 

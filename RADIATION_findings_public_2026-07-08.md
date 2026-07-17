@@ -1,6 +1,6 @@
 # Radiation Damage — Findings and Open Questions
 
-*Blueprint-tester capture study, shared to the flight-discussion channel — 2026-07-08, by GYFG (COSM)*
+*Blueprint-tester capture study, shared to the flight-discussion channel — 2026-07-08, by EoinCuinn*
 
 This writes up everything I've measured on radiation damage so the numbers are on the table for everyone who's worked on this. It's built on in-game blueprint-tester flights (deterministic damage, ~5e-9 repeatable) plus Aem's spreadsheet and Raylu's repair calculator for comparison. It agrees with some of the prior community work and disagrees with some of it; both are called out explicitly, with the numbers, so anyone can check or push back. The intent is to add to the shared picture, not to overturn it — most of what's here rests on foundations Aem, Raylu and others built. The galaxy star/system data used throughout — per-system luminosity and meteoroid density — comes from FIO (fnar.net), submitted by SAGANAKI; thanks for gathering and sharing it.
 
