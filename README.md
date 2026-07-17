@@ -1,5 +1,12 @@
 # PrUn Radiation Damage — Research & Data
 
+> ### 📦 This research has moved
+> The canonical, maintained copy now lives in the main toolset repo, alongside the
+> landing-distance research:
+> **→ [`prun-toolset/research/radiation/`](https://github.com/EoinCuinn/prun-toolset/tree/main/research/radiation)**
+>
+> This standalone repo is kept as a mirror/archive; future updates happen in `prun-toolset`.
+
 An investigation into radiation-damage on sublight flight legs in
 [Prosperous Universe](https://prosperousuniverse.com/), built on in-game
 blueprint-tester captures (deterministic damage, ~5e-9 repeatable), cross-checked
